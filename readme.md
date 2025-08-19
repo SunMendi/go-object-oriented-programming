@@ -181,7 +181,7 @@ cart.Checkout()
 
 ## 👤 Author
 
-Written by Mehedi Mahbub
+Written by Lutful Mahbub Mehedi
 
 ---
 
